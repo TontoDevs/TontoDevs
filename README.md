@@ -1,7 +1,5 @@
 ### Hi TontoDevs 👋 :
 
-![Profile views](https://gpvc.arturio.dev/TontoDevs)
-
 ## snake-eating my contribution graph
 ![snake gif](https://github.com/TontoDevs/getting_badges/blob/output/github-contribution-grid-snake.gif)
 
@@ -20,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://gpvc.arturio.dev/TontoDevs)
