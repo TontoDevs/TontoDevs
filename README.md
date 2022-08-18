@@ -1,6 +1,7 @@
 ### Hi TontoDevs 👋 :
-
+<!--
 ## snake-eating my contribution graph
+-->
 ![snake gif](https://github.com/TontoDevs/getting_badges/blob/output/github-contribution-grid-snake.gif)
 
 
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## chill gif:
  <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
 <br>
 <br>
