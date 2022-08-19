@@ -1,4 +1,4 @@
-<h1> Hi TontoDevs <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
+<h1> 👨‍💻 Hi TontoDevs <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
 
 <div align = 'center'> 
 
@@ -6,7 +6,7 @@
 
  <p>
    <strong>
-     Bachelor of Science in Information and technology major <br>
+     Bachelor of Science in Information and Computer Science Major <br>
      Kasetsart University Si Racha Campus <br>
    </strong>
   </p>
