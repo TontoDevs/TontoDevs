@@ -1,8 +1,23 @@
-### Hi TontoDevs 👋 :
+<h1> Hi TontoDevs <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
+
+<div align = 'center'> 
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
+
+ <p>
+   <strong>
+     Bachelor of Science in Information and technology major <br>
+     Kasetsart University Si Racha Campus <br>
+   </strong>
+  </p>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 <!--
 ## snake-eating my contribution graph
 -->
 ![snake gif](https://github.com/TontoDevs/getting_badges/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <!--
@@ -19,9 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
-<br>
-<br>
-
-![Profile views](https://gpvc.arturio.dev/TontoDevs)
