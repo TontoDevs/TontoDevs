@@ -28,7 +28,6 @@ Hi TontoDevs
 ![snake gif](https://github.com/TontoDevs/getting_badges/blob/output/github-contribution-grid-snake.gif)
 
 
-
 <!--
 **TontoDevs/TontoDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
