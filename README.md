@@ -6,7 +6,7 @@ Hi TontoDevs
 
 <div align = 'center'> 
 
-<img align="center" src="/Pictures/developer2.gif" />
+<img align="center" src="/Pictures/developer5.gif" />
  <p>
    <strong>
      Bachelor of Science in Information and Computer Science Major <br>
