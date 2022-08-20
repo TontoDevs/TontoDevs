@@ -15,6 +15,8 @@ Hi TontoDevs
    </strong>
   </p>
 
+- 📫 reach me :
+[![Gmail Badge](https://img.shields.io/badge/-TontoDevs-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nattachai.chaiwiriya@gmail.com)](mailto:nattachai.chaiwiriya@gmail.com) 
 
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 <!--
