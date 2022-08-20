@@ -17,10 +17,11 @@ Hi TontoDevs
 </div> 
     
 - 📫 reach me :
-[![Gmail Badge](https://img.shields.io/badge/-TontoDevs-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nattachai.chaiwiriya@gmail.com)](mailto:nattachai.chaiwiriya@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Nattachai-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nattachai.chaiwiriya@gmail.com)](mailto:nattachai.chaiwiriya@gmail.com) 
 - ⚡  DataScientist lad who loves football
 
-
+<div align = 'center'>
+    
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 <!--
 ## snake-eating my contribution graph
