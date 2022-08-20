@@ -5,7 +5,6 @@ Hi TontoDevs
 
 
 <div align = 'center'> 
-
 <img align="center" src="/Pictures/developer5.gif" />
  <p>
    <strong>
