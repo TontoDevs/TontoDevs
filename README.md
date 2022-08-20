@@ -15,9 +15,9 @@ Hi TontoDevs
   </p>
 </div> 
     
-- 📫 Reach me :
+- 📫🐱‍💻 Reach me :
 [![Gmail Badge](https://img.shields.io/badge/-Nattachai-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nattachai.chaiwiriya@gmail.com)](mailto:nattachai.chaiwiriya@gmail.com) 
-- ⚡  DataScientist lad who loves football
+- 👨🏻‍💻 DataScientist lad who loves football
 
 <div align = 'center'>
     
