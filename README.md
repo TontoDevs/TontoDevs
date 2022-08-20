@@ -6,8 +6,7 @@ Hi TontoDevs
 
 <div align = 'center'> 
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
-
+<img align="center" src="/Pictures/developer2.gif" />
  <p>
    <strong>
      Bachelor of Science in Information and Computer Science Major <br>
