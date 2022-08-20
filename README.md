@@ -1,4 +1,8 @@
-<h1> 👨‍💻 Hi TontoDevs <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
+<h1> 
+    <img src = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width = 50px height=50px> 
+Hi TontoDevs 
+    <img src = "https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png" width = 50px height=50px> </h1> 
+
 
 <div align = 'center'> 
 
