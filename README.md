@@ -20,7 +20,7 @@ Hi TontoDevs
 
 <div align = 'center'>
 
-<img src="/Pictures/home-large-dark.png">    
+<img src="/Pictures/home-large-dark.png" width = 450px height = 450px>    
 
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 
