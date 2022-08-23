@@ -19,8 +19,11 @@ Hi TontoDevs
 - 👨🏻‍💻 DataScientist lad who loves football
 
 <div align = 'center'>
-    
+
+<img src="/Pictures/home-large-dark.png">    
+
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
+
 <!--
 ## snake-eating my contribution graph
 -->
