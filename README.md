@@ -19,9 +19,8 @@ Hi TontoDevs
 - 👨🏻‍💻 DataScientist lad who loves football
 
 
-<div align = 'center'>
-<img src="/Pictures/home-large-dark.png" width = 450px height = 450px>    
-</div> 
+<div align = 'center'> <img src="/Pictures/home-large-dark.png" width = 450px height = 450px ></div> 
+
 
 ## 📝 Blogs
 
