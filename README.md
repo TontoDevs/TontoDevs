@@ -18,9 +18,15 @@ Hi TontoDevs
 [![Gmail Badge](https://img.shields.io/badge/-Nattachai-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nattachai.chaiwiriya@gmail.com)](mailto:nattachai.chaiwiriya@gmail.com) 
 - 👨🏻‍💻 DataScientist lad who loves football
 
-<div align = 'center'>
 
+<div align = 'center'>
 <img src="/Pictures/home-large-dark.png" width = 450px height = 450px>    
+</div> 
+
+## 📝 Blogs
+
+- Medium: https://medium.com/@TontoDevs
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 
