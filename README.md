@@ -19,21 +19,23 @@ Hi TontoDevs
 - 👨🏻‍💻 DataScientist lad who loves football
 
 
-<div align = 'center'> <img src="/Pictures/home-large-dark.png" width = 450px height = 450px ></div> 
+<div align = 'center'><img src="/Pictures/home-large-dark.png" width = 450px height = 450px ></div> 
 
 
 ## 📝 Blogs
 
 - Medium: https://medium.com/@TontoDevs
 
-
+<div align = 'center'> 
+    
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 
 <!--
 ## snake-eating my contribution graph
 -->
 ![snake gif](https://github.com/TontoDevs/getting_badges/blob/output/github-contribution-grid-snake.gif)
-
+    
+</div> 
 
 <!--
 **TontoDevs/TontoDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
