@@ -4,7 +4,7 @@
 
 
 <div align = 'center'> 
-<img align="center" src="/Pictures/developer5.gif" />
+<img align="center" src="/Pictures/developer3.gif" />
  <p>
    <strong>
      Bachelor of Science in Information and Computer Science Major <br>
