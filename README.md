@@ -25,14 +25,13 @@
 
 - Medium: https://medium.com/@TontoDevs
 
-<div align = 'center'> 
+<div align = 'left'> 
     
 ![Profile views](https://komarev.com/ghpvc/?username=TontoDevs&color=07B6BB&label=PROFILE+VIEWS)
 
 <!--
 ## snake-eating my contribution graph
 -->
-![snake gif](https://github.com/TontoDevs/getting_badges/blob/output/github-contribution-grid-snake.gif)
     
 </div> 
 
